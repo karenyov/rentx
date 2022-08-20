@@ -21,7 +21,7 @@ expo start
 # Rodando Server
 Por padrão a porta configurada é a 3000 (http://localhost:3000).
 ```sh
- npm run dev:server
+ npm run dev:server --delay 700
 ```
 
 # Screenshots
