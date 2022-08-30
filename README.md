@@ -19,6 +19,16 @@ expo start
 ```
 
 # Rodando Server
+Configurando API:
+```sh
+
+# change host ip to your ip
+"api" ....
+
+# change host ip in /src/services/api.ts
+```
+
+
 Por padrão a porta configurada é a 3000 (http://localhost:3000).
 ```sh
  npm run api
